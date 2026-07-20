@@ -71,4 +71,4 @@ Son objectif est de proposer :
 
 ## Devise
 
-**Un seul système. Tous les usages.**
+**Build your system, not ours.**
