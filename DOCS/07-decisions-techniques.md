@@ -37,6 +37,6 @@ Ces composants doivent cependant rester minoritaires dans l'architecture du proj
 
 ## Orientation Technique
 
-À long  terme, Northstar OS vise une architecture majoritairement Rust.
+À long terme, Northstar OS vise une architecture majoritairement Rust.
 
 Les nouveaux développements doivent privilégier Rust lorsque cela est raisonnablement possible.
