@@ -15,28 +15,28 @@ Elle doit être :
 ## Vue d'ensemble
 
 ```
-                               BIOS / UEFI
-                                    │  
-                                    ▼
-                           Northstar Bootloader
-                                    │  
-                                    ▼
-                            Hardware Discovery
-                                    │  
-                                    ▼
-                              Kernel Loader
-                                    │  
-                                    ▼
-                             Northstar Kernel
-                                    │  
-                                    ▼
-                               Core Services
-                                    │  
-                                    ▼
-                                 Modules
-                                    │  
-                                    ▼
-                            Interface ou Shell
+    BIOS / UEFI
+         │  
+         ▼
+ Northstar Bootloader
+         │  
+         ▼
+ Hardware Discovery
+         │  
+         ▼
+   Kernel Loader
+         │  
+         ▼
+  Northstar Kernel
+         │  
+         ▼
+    Core Services
+         │  
+         ▼
+      Modules
+         │  
+         ▼
+  Interface ou Shell
 ```
 
 ## Étape 1 : Firmware
